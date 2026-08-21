@@ -1,0 +1,6 @@
+ticket_id, product, channel, description, category, priority
+TXT_1001, CloudSync, email, Users cannot login after password reset. Getting AUTH-401, authentication, high 
+TXT_1002, DataHub, web, Dashboard is loading very slowly for the last 2 hours, performance, medium
+TXT_1003, CloudSync, API, Files are failing to synchronize with the server, synchronization, high   
+TXT_1004, DataHub, email, Customer wants to add another user to the account, account_management, low
+TXT_1005, AnalyticPro, web, Report generation fails with REP-500, reporting, high
