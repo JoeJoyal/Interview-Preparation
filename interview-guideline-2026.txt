@@ -40,20 +40,143 @@ Good To Have Skills :
 Job Requirements :
 15 years full time education
 ---------------------------------------------------------------------------------------------------
+Custom Software Engineer | C26065308
+Management Level - 9 | Skill Interview | Bengaluru
+------------------------------------------------------
+Project Role : Custom Software Engineer
+Project Role Description : NA
+Must have skills : Generative AI
+Good to have skills : NA
+Minimum 5 year(s) of experience is required
+Educational Qualification : 15 years full time education
+
+Summary:
+As a Custom Software Engineer, a typical day involves engaging deeply with project requirements to design and develop tailored software solutions that meet specific client needs. The role includes coordinating with various stakeholders to ensure alignment on project goals, managing workflows within the team, and overseeing the progress of software development activities. This position requires balancing multiple priorities, troubleshooting challenges as they arise, and continuously refining processes to enhance overall project delivery and quality. Collaboration and communication are key components throughout the day to drive successful outcomes across different teams and project phases.
+
+Roles & Responsibilities:
+- Expected to be an SME, collaborate and manage the team to perform.
+- Responsible for team decisions.
+- Engage with multiple teams and contribute on key decisions.
+- Provide solutions to problems for their immediate team and across multiple teams.
+- Lead the implementation of best practices to improve team efficiency and product quality.
+- Mentor junior team members to support their professional growth and skill development.
+- Facilitate effective communication channels between cross-functional teams to ensure seamless project execution.
+
+Professional & Technical Skills:
+- Must To Have Skills: Proficiency in Generative AI.
+- Experience with designing and deploying AI-driven software solutions tailored to client requirements.
+- Strong understanding of neural network architectures and deep learning frameworks.
+- Ability to optimize AI models for performance and scalability in production environments.
+- Familiarity with programming languages commonly used in AI development such as Python and relevant libraries.
+- Capability to analyze complex datasets and translate insights into actionable software features.
+
+Additional Information:
+- The candidate should have minimum 5 years of experience in Generative AI.
+- This position is based at our Bengaluru office.
+- A 15 years full time education is required.
+
+-------------------------------------------------------------------------------------------------------
+Accenture logo
+Sign out
+Welcome, JOE THAMIYAN C
+"We're excited to have you here!"
+Request slots for interview
+Packaged/SaaS App Engineering Lead | C26065308 | Management Level - 9 | Interview Type - Skill Interview | Bengaluru
+Job Requisition ID : ATCI-5688442-S2063197    View Job Description
+Schedule Interview
+ 2024 Accenture All Rights Reserved
+✕
+Packaged/SaaS App Engineering Lead
+Job Description
+Project Role : Packaged/SaaS App Engineering Lead
+Project Role Description : Own the design and evolution of packaged or SaaS solutions, overseeing configuration, integrations, and releases. Set platform standards to ensure stability, performance, and alignment with business and vendor constraints.
+Must have skills : Generative AI
+Good to have skills : NA
+Minimum 5 year(s) of experience is required
+Educational Qualification : 15 years full time education
+
+Summary:
+In the role of Packaged or Software as a Service Application Engineering Lead, a typical day involves taking ownership of the design and continuous improvement of packaged or cloud-based solutions. This includes managing the configuration, integration, and deployment processes to ensure seamless operation. The role requires setting and maintaining platform standards that guarantee system stability and optimal performance while aligning with both business objectives and vendor requirements. Collaboration across various teams and stakeholders is a key part of the daily routine to drive the evolution of the solution in a dynamic environment.
+
+Roles & Responsibilities:
+
+-Build end-to-end RAG pipelines — ingestion, chunking (including PLM-specific strategies for BOMs and requirement specs), embedding, vector indexing, hybrid search (BM25 + dense), re-ranking, and response generation.
+
+-Develop agentic AI solutions using LangChain, LangGraph, AutoGen, or CrewAI — including tool-calling, memory management, multi-step reasoning, retry logic, and output validation.
+
+-Integrate and work with MCP (Model Context Protocol) — integrate MCP servers into agentic workflows and build custom MCP servers where required leverage Claude''s native MCP support for Claude-powered agent solutions.
+
+-Integrate LLM APIs — Claude (Haiku / Sonnet / Opus), OpenAI, Azure OpenAI, AWS Bedrock — into enterprise PLM workflows manage token usage, prompt caching, semantic caching, and batching for cost-efficient deployments.
+
+-Select LLMs per use case based on cost, latency, and compliance evaluate and monitor production systems for output reliability and drift apply secure AI practices including responsible data handling and prompt injection defence.
+
+-Write clean, testable Python — including unit tests for prompts, mocked LLM calls, and regression testing against golden datasets participate in code reviews and CI/CD pipelines.
+
+-Support client technical discussions document implementation decisions, trade-offs, and lessons learned.
+
+
+Professional & Technical Skills:
+
+-Anthropic SDK — deep proficiency with the Anthropic Python and TypeScript SDKs messages API, streaming, async patterns, tool use schema definition, and the Batch API ability to define SDK usage standards across the delivery team.
+LLMs & Prompt Engineering — deep hands-on experience across Claude (Haiku / Sonnet / Opus), GPT-4, Gemini, LLaMA ability to define model selection strategy across an engagement based on context window, cost, latency, and enterprise compliance few-shot, chain-of-thought, and structured JSON outputs.
+
+-Claude-Specific Capabilities — prompt caching, extended thinking, tool use / function calling, 200K token context window utilisation for large PLM documents deep understanding of Claude''s strengths in long-document reasoning and instruction-following in enterprise contexts.
+
+-Claude Code — experience using Claude Code as an agentic development environment ability to define and govern project-level instructions via CLAUDE.md / Rules for the entire delivery team, design pre/post tool execution automation using Hooks, build custom multi-step workflows, and run Claude Code in headless / CI mode for automated engineering pipelines.
+
+-Embedding Models — experience selecting and benchmarking embedding models (BGE, E5, sentence-transformers, Cohere, OpenAI Ada / text-embedding-3 series) for domain-specific engineering vocabulary ability to define embedding strategy at engagement level.
+
+-RAG — end-to-end RAG architecture design chunking strategies, vector stores (FAISS, Pinecone, Weaviate, Chroma, pgvector), hybrid search, re-ranking (cross-encoders, Cohere Rerank) ability to set quality standards and review pipeline implementations.
+
+-Agentic Frameworks — LangChain / LangGraph / AutoGen tool-calling, memory, multi-step agent loops structured output validation ability to define agentic architecture patterns for the team.
+
+-MCP (Model Context Protocol) — architectural understanding of the protocol ability to build and govern custom MCP servers define MCP standards and usage governance across the delivery team ability to assess MCP integration patterns for enterprise security and scalability.
+
+-Python — FastAPI / Flask, LangChain, Pydantic, Pandas REST API development streaming and async patterns Git & CI/CD code review and standards setting.
+
+-Cloud — Azure / AWS / GCP AI services Docker basics.
+
+Additional Information:
+- The candidate should have minimum 6+ years overall experience 3+ in AI/ML production 2+ in GenAI. Proven experience delivering AI solutions in an engineering or PLM context is a strong plus. Consulting or client-facing experience preferred.
+-AWS ML Specialty / Azure AI Engineer Associate / Google Professional ML Engineer.
+-Deep Learning or NLP Specialization (deeplearning.ai).
+-LangChain or Hugging Face certifications where available.
+-PLM platform certifications (Enovia, Teamcenter, Windchill) are a bonus.
+- This position is based at our Bengaluru offic
+- A 15 years full time education is required.
+
+-----------------------------------------------------------------------------------------------------------------
+
 
 careers@tcs.com.
 EP2020IR001049
-
+9566004830
 
 Generative-AI Large Language Model LangChain LlamaIndex RAG
 
-BJRPJ5187Q
+pancard: BJRPJ5187Q
+10th : 64.4
+12th: 55.17
+101437466235
+16Pcaj115$
+
+----------------------------
+Total Exp - 6.5+ Years
+Relevant Exp - GenAI 2+ years
+Alternate No.- 9751441023
+Current CTC - 8,50,000/-
+Exp CTC - 19 - 20 LPA
+Official Notice Period - 30th Sep 2026 (Negotiable)
+How many days you required to join - Mid of September 
+Current Company & location - Rangsons Aerospace Pvt Ltd, Bangalore
+Payroll Company - Rangsons Aerospace Pvt Ltd, Bangalore
+--------------------------------------------------------
 
 
 
 Accenture: https://b2cprejoinerprod.b2clogin.com/candidate.accenture.com/B2C_1A_SignIn_MyCareer_OIDC/api/SelfAsserted/confirmed?csrf_token=eW9DYjh6UVM2b0hrSTZvcjhqYmVQbkZnek5tTy9CUm5NS2xqNjdJSEhHcEVJbmpWcTF5Qlk5TmhWMFdNSEhOMi9MdzFNUzdVaTB0YmlZWm1TUzBpelE9PTsyMDI2LTA3LTMxVDA4OjI2OjUxLjU5OTk0OTZaO1lxK0xhc1BTUVZYVHRNcmdCdlZFUnc9PTt7IlRhcmdldEVudGl0eSI6IlRyYWNrU2lnbkluUmVxdWVzdEJlZ2luIiwiT3JjaGVzdHJhdGlvblN0ZXAiOjN9&tx=StateProperties=eyJUSUQiOiJjMGM4ZjdhNy01ZjM4LTQ4OGMtOGJhMC1lNjQ2YWQwYWM0Y2IifQ&p=B2C_1A_SignIn_MyCareer_OIDC&diags=%7B%22pageViewId%22%3A%22a2e686d9-c726-429b-9d5f-19ea051e8787%22%2C%22pageId%22%3A%22SelfAsserted%22%2C%22trace%22%3A%5B%7B%22ac%22%3A%22T005%22%2C%22acST%22%3A1785486412%2C%22acD%22%3A1%7D%2C%7B%22ac%22%3A%22T021%20-%20URL%3Ahttps%3A%2F%2Fapp-5292-eus2-prejoiner-prod-web.azurewebsites.net%2FMFASplash.html%22%2C%22acST%22%3A1785486412%2C%22acD%22%3A3%7D%2C%7B%22ac%22%3A%22T019%22%2C%22acST%22%3A1785486412%2C%22acD%22%3A1%7D%2C%7B%22ac%22%3A%22T004%22%2C%22acST%22%3A1785486412%2C%22acD%22%3A1%7D%2C%7B%22ac%22%3A%22T003%22%2C%22acST%22%3A1785486412%2C%22acD%22%3A0%7D%2C%7B%22ac%22%3A%22T017T010%22%2C%22acST%22%3A1785486412%2C%22acD%22%3A745%7D%2C%7B%22ac%22%3A%22T002%22%2C%22acST%22%3A1785486413%2C%22acD%22%3A0%7D%2C%7B%22ac%22%3A%22T017T010%22%2C%22acST%22%3A1785486412%2C%22acD%22%3A745%7D%5D%7D
 ---------------------
-7569566835 (2) - 3rd party TCS, spoked, 
+7569566835 (2)
 7993665547
 7829122526
 7090888866
@@ -63,12 +186,64 @@ Accenture: https://b2cprejoinerprod.b2clogin.com/candidate.accenture.com/B2C_1A_
 8333076451 - Mamidi Pavan
 6307745803- Jaspreet Kaur
 8744050357 - Shreya 
-8002818846
-9000512779 - Sai mohan reddy pannem reddy EIT
-9663121633 - Rajat from EY
-
-
-
 
 
 9560241657 - LLT mindtree
+
+
+
+---------
+20260827
+---------
+8317046526 - surya kumar ref accenture
+9985719311
+7969003486
+7969003485
+9111975867m- Ritika rathi
+7611136296 - mohit pandit (citiusTech) Ankita
+7702922829 - reddy
+9121510083 - kasthuri
+
+8904633869
+9340458733
+6385146437
+9310333204- Sandeep (EMID)
+9110798389
+7989781780
+-----------------------
+2026-08-31
+-----------------------
+9989506009 - spoked
+7908493239
+8179592925
+9751957776
+9248713034
+7676259645
+7795950262
+8778150138
+9538041662
+7760621484
+7985604511 - Akansha Sharma (HTC Global Service)
+9789485714
+8061914360
+9665038381
+8667845388
+9625511321
+9834368481
+
+-----------------------
+2026-09-01
+-----------------------
+9311491281
+9364099611
+9047720755
+7042873805
+7483833602
+7075101643
+9776020243
+6383839563
+9696024415
+9676508231
+8287141515 - vallumx.ai (spoked)
+7557412554 - Adarsh Anand (not pick the call)
+8971510034 - trigent software ref to Infoys (check with his manager regarding Notice period)
