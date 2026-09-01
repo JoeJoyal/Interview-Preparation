@@ -1,0 +1,74 @@
+Job Description
+Project Role : AI / ML Engineer
+Project Role Description :Project Role : AI / ML Engineer
+Project Role Description : Develops applications and systems that utilize AI tools, Cloud AI services, with proper cloud or on-prem application pipeline with production ready quality. Be able to apply GenAI models as part of the solution. Could also include but not limited to deep learning, neural networks, chatbots, image processing.
+Must have skills : Large Language Models (LLMs)
+Good to have skills : NA
+Minimum 5 year(s) of experience is required
+Educational Qualification : 15 years full time education
+
+Summary:
+As an AI / ML Engineer, you will engage in the development of applications and systems that leverage artificial intelligence tools and cloud AI services. Your typical day will involve designing and implementing production-ready solutions, ensuring that they meet quality standards. You will work with generative AI models and may also explore various advanced techniques such as deep learning, neural networks, chatbots, and image processing to enhance the functionality and performance of the systems you create. Collaboration with cross-functional teams will be essential to ensure the successful integration of AI technologies into existing workflows and applications.
+
+Roles & Responsibilities:
+- Expected to be an SME.
+- Collaborate and manage the team to perform.
+- Responsible for team decisions.
+- Engage with multiple teams and contribute on key decisions.
+- Provide solutions to problems for their immediate team and across multiple teams.
+- Mentor junior team members to enhance their skills and knowledge in AI and machine learning.
+- Continuously evaluate and improve existing AI models and systems to ensure optimal performance.
+
+Professional & Technical Skills:
+- Must To Have Skills: Proficiency in Large Language Models.
+- Good To Have Skills: Experience with cloud-based AI services.
+- Strong understanding of deep learning frameworks such as TensorFlow or PyTorch.
+- Familiarity with natural language processing techniques and tools.
+- Experience in developing and deploying chatbots and conversational agents.
+
+Additional Information:
+- The candidate should have minimum 5 years of experience in Large Language Models.
+- This position is based at our Bengaluru office.
+- A 15 years full time education is required.
+
+
+Management Level : 9
+Work Experience : >=12 Months
+Work location : Bengaluru
+Must Have Skills : Large Language Models (LLMs)
+Good To Have Skills :
+Job Requirements :
+15 years full time education
+---------------------------------------------------------------------------------------------------
+
+careers@tcs.com.
+EP2020IR001049
+
+
+Generative-AI Large Language Model LangChain LlamaIndex RAG
+
+BJRPJ5187Q
+
+
+
+Accenture: https://b2cprejoinerprod.b2clogin.com/candidate.accenture.com/B2C_1A_SignIn_MyCareer_OIDC/api/SelfAsserted/confirmed?csrf_token=eW9DYjh6UVM2b0hrSTZvcjhqYmVQbkZnek5tTy9CUm5NS2xqNjdJSEhHcEVJbmpWcTF5Qlk5TmhWMFdNSEhOMi9MdzFNUzdVaTB0YmlZWm1TUzBpelE9PTsyMDI2LTA3LTMxVDA4OjI2OjUxLjU5OTk0OTZaO1lxK0xhc1BTUVZYVHRNcmdCdlZFUnc9PTt7IlRhcmdldEVudGl0eSI6IlRyYWNrU2lnbkluUmVxdWVzdEJlZ2luIiwiT3JjaGVzdHJhdGlvblN0ZXAiOjN9&tx=StateProperties=eyJUSUQiOiJjMGM4ZjdhNy01ZjM4LTQ4OGMtOGJhMC1lNjQ2YWQwYWM0Y2IifQ&p=B2C_1A_SignIn_MyCareer_OIDC&diags=%7B%22pageViewId%22%3A%22a2e686d9-c726-429b-9d5f-19ea051e8787%22%2C%22pageId%22%3A%22SelfAsserted%22%2C%22trace%22%3A%5B%7B%22ac%22%3A%22T005%22%2C%22acST%22%3A1785486412%2C%22acD%22%3A1%7D%2C%7B%22ac%22%3A%22T021%20-%20URL%3Ahttps%3A%2F%2Fapp-5292-eus2-prejoiner-prod-web.azurewebsites.net%2FMFASplash.html%22%2C%22acST%22%3A1785486412%2C%22acD%22%3A3%7D%2C%7B%22ac%22%3A%22T019%22%2C%22acST%22%3A1785486412%2C%22acD%22%3A1%7D%2C%7B%22ac%22%3A%22T004%22%2C%22acST%22%3A1785486412%2C%22acD%22%3A1%7D%2C%7B%22ac%22%3A%22T003%22%2C%22acST%22%3A1785486412%2C%22acD%22%3A0%7D%2C%7B%22ac%22%3A%22T017T010%22%2C%22acST%22%3A1785486412%2C%22acD%22%3A745%7D%2C%7B%22ac%22%3A%22T002%22%2C%22acST%22%3A1785486413%2C%22acD%22%3A0%7D%2C%7B%22ac%22%3A%22T017T010%22%2C%22acST%22%3A1785486412%2C%22acD%22%3A745%7D%5D%7D
+---------------------
+7569566835 (2) - 3rd party TCS, spoked, 
+7993665547
+7829122526
+7090888866
+9958431981
+8088866050
+9633513699 - Anita Jose
+8333076451 - Mamidi Pavan
+6307745803- Jaspreet Kaur
+8744050357 - Shreya 
+8002818846
+9000512779 - Sai mohan reddy pannem reddy EIT
+9663121633 - Rajat from EY
+
+
+
+
+
+9560241657 - LLT mindtree
