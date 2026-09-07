@@ -247,3 +247,59 @@ Accenture: https://b2cprejoinerprod.b2clogin.com/candidate.accenture.com/B2C_1A_
 8287141515 - vallumx.ai (spoked)
 7557412554 - Adarsh Anand (not pick the call)
 8971510034 - trigent software ref to Infoys (check with his manager regarding Notice period)
+
+-----------------------
+2026-09-02
+-----------------------
+9071476352
+7416803575
+
+
+{
+	"Version": "2012-10-17",
+	"Statement": [
+		{
+			"Effect": "Allow",
+			"Action": "aoss:*",
+			"Resource": "*"
+		}
+	]
+}
+
+
+
+{
+	"Version": "2012-10-17",
+	"Statement": [
+		{
+			"Sid": "Statement1",
+			"Effect": "Allow",
+			"Action": [],
+			"Resource": []
+		}
+	]
+}
+
+
+
+
+-------------------
+2026-09-07
+----------------
+7438804131
+8384820236 - Hexaware from noida
+8904769230
+7582015551
+8978974257
+8077626169 - zakir Akhlaq ansari (TCS) tomorrow on 4pm
+6357698466
+8308645299 - Ref vendor Infosys rajeshree
+6306058311 - BirlaGroup
+8799983631
+9071121208
+7358784936
+
+8466841333 - Ruchitha balla, 8019984139 - shahjahan begum
+
+
+641-4 acts, Govinda Shetty Palya Rd, Konappana Agrahara, Electronic City, Konappana Agrahara, Karnataka 560100
